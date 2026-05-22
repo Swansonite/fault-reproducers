@@ -8,7 +8,7 @@ A collection of tools and scripts to reproduce Linux system faults for testing a
 
 These reproducer tools are intended for Enterprise Linux family systems, such as RHEL, CentOS, Rocky Linux, AlmaLinux, and Fedora. System behavior may vary across different Linux distributions, kernel versions, configurations, and hardware environments.
 
-These tools are strictly for testing, debugging, validation, and data-gathering practice in controlled lab environments. Running them on production systems can cause data loss, service disruption, system hangs, kernel panics, or complete system failure.
+These tools are strictly for testing, debugging, validation, and data gathering practice in controlled lab environments. Running them on production systems can cause data loss, service disruption, system hangs, kernel panics, or complete system failure.
 
 🛑 **DO NOT run anything from this project on systems you do not own, administer, or have explicit permission to test.**  🛑
 
