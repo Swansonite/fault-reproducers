@@ -503,4 +503,4 @@ total 112M
 
 ## 🔍 Analyze
 
-........................WIP................coming soon...........
+The chaos has been created. To inspect the blocked `touch` task, panic, vmcore, and kernel stack traces, head over to my separate `linux-debugging` GitHub project: [linux-debugging | hung-task-panic-from-frozen-filesystem-analysis.md](https://github.com/Swansonite/linux-debugging/blob/main/hung-task-panic-from-frozen-filesystem-analysis.md)
