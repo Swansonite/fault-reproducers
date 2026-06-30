@@ -15,3 +15,7 @@ These tools are strictly for testing, debugging, validation, and data gathering 
 🛑 **DO NOT run anything from this project on systems you do not own, administer, or have explicit permission to test.**  🛑
 
 By continuing, you acknowledge these risks and accept full responsibility for any resulting impact.
+
+_________________________
+
+- [d-state-task-by-freezing-filesystem](https://github.com/Swansonite/fault-reproducers/tree/main/d-state-task-by-freezing-filesystem)
