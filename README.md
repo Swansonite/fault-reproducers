@@ -1,8 +1,7 @@
 <img src="./media/fault-reproducers-banner-image.png" width="100%">
 
 # fault-reproducers
-A collection of tools and scripts to reproduce Linux system faults for testing and data collection.
-
+A collection of steps, tools and scripts to reproduce Linux system faults for testing and data collection.
 ## ⚠️ Disclaimer – Read Before Use ⚠️
 
 **WARNING: This project contains scripts, modules, and configurations designed to deliberately break or destabilize systems.** 
